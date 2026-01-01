@@ -70,7 +70,6 @@ Membuat Dashboard interaktif menggunakan **Power BI** untuk memvisualisasikan Me
 ---
 
 ## Dashboard Preview
-*(Note: Silakan masukkan screenshot dashboard Power BI kamu di sini)*
 
 ![Dashboard Customer Behavior](/assets/Ecommerce-customer-behavior-analysis.png)
 ![Dashboard Profitability & Performance](/assets/Profitability-&-Business-Performance-Analysis.png)
